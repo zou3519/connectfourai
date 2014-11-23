@@ -18,4 +18,4 @@ Press start to run the game.  The game does not tell you when it ends; you will 
 if you lose or win.  This was coded in 2012 so I have lost track of the Greenfoot source code and cannot
 modify it.
 
-<a href="http://www.greenfoot.org/scenarios/1237"></a>
+[Link to the applet on greenfoot.org](http://www.greenfoot.org/scenarios/1237)
