@@ -1,12 +1,17 @@
 Connect Four with Minimax AI
 =============
 By Richard Zou
+
 Work dated January 2012, added to GitHub November 2014.
 
 Introduction
 -------------
 A simple command line Connect Four game. Has a minimax AI that uses an alpha-beta pruning algorithm.
 The project was initially done in Netbeans and has currently been ported to IntelliJ IDEA. Runs in Java >= 1.6.
+
+This project was a large learning experience for me: it was one of my first programming projects.  I initially created
+a simple AI for Connect Four back in 2010, and then improved it when I learned about minimax and alpha-beta pruning
+in 2012.
 
 Play against an applet
 ------------------
